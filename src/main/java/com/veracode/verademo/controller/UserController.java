@@ -61,7 +61,7 @@ import dev.samstevens.totp.time.SystemTimeProvider;
 import dev.samstevens.totp.time.TimeProvider;
 
 /**
- * @author johnadmin
+ * @author johnadmin  
  */
 @Controller
 @Scope("request")
